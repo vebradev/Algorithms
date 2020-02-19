@@ -1,7 +1,5 @@
 #!/usr/bin/python
 
-import math
-
 def recipe_batches(recipe, ingredients):
     # set empty list to hold batches
     batches = []
